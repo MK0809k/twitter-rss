@@ -2,7 +2,7 @@ import requests
 import datetime
 
 def get_latest_tweet(username):
-    url = f"https://nitter.net/{username}/rss"
+    url = f"https://nitter.privacydev.net/{username}/rss"
     resp = requests.get(url)
     if resp.status_code != 200:
         raise Exception("Failed to fetch from Nitter")
