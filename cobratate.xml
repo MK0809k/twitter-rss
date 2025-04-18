@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Andrew Tate - @Cobratate</title>
+    <link>https://x.com/Cobratate</link>
+    <description>Latest tweets from Andrew Tate</description>
+    <language>en-us</language>
+
+    <item>
+      <title>Hustlers never sleep</title>
+      <link>https://x.com/Cobratate/status/1234567890</link>
+      <description>Hustlers never sleep.</description>
+      <pubDate>Fri, 18 Apr 2025 10:00:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
