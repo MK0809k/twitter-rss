@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>RorSyns - @RorSyns</title>
+    <link>https://x.com/RorSyns</link>
+    <description>Latest tweets from RorSyns</description>
+    <language>en-us</language>
+
+    <item>
+      <title>Example Tweet</title>
+      <link>https://x.com/RorSyns/status/1234567890123456789</link>
+      <description>Replace this with a RorSyns tweet or post.</description>
+      <pubDate>Fri, 18 Apr 2025 10:00:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
